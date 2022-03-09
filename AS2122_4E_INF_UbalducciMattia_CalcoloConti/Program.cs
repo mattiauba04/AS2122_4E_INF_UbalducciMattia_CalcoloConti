@@ -17,7 +17,7 @@ namespace AS2122_4E_INF_UbalducciMattia_CalcoloConti
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmMain());
         }
     }
 }
